@@ -37,7 +37,7 @@
 <snapshotRepository>
   <id>cicdpipeline</id>
   <name>cicdpipeline</name>
-  <url>http://13.235.81.227:8081/repository/cicdpipeline/</url>
+  <url>http://65.0.75.49/:8081/repository/cicdpipeline/</url>
   </snapshotRepository>
   </distributionManagement>
  
