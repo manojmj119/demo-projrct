@@ -12,11 +12,7 @@ pipeline{
           sh 'mvn install'
           }
       }
-      stage('Deploy'){
-          steps{
-          sh 'mvn deploy'
-          }
-      }
+      
          stage('Tool version Check') {
             steps {
                 echo "Hello, Maven"
